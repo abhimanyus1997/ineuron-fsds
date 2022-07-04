@@ -2,7 +2,11 @@
 Assignments for iNeuron FSDS- Nov 2021
 
 ## Python
-### Python Basic Assignments
+### [Python Basic Assignments](https://github.com/abhimanyus1997/ineuron-fsds/tree/main/Python%20Basics)
+1. [Assignment 1](https://github.com/abhimanyus1997/ineuron-fsds/blob/main/Python%20Basics/Assignment%201%20-%20Python%20Basics.ipynb)
+1. [Assignment 2](https://github.com/abhimanyus1997/ineuron-fsds/blob/main/Python%20Basics/Assignment%202%20-%20Python%20Basics.ipynb)
+
+
 ### Python Advance Assignment
 ### Python Programming Basic Assignment
 ### Python Advance Programming Assignment
