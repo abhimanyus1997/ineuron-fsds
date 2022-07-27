@@ -42,5 +42,5 @@ Assignments for iNeuron FSDS- Nov 2021
 ### Excel Assignments
 
 
-#SELF NOTES
-## [Flask QuickRevision](https://github.com/abhimanyus1997/cryptoTracker/blob/e25dec5d3b5598c0a7e5736eaf41d07f28d335d8/flask/flask_tutor.ipynb)
+# SELF NOTES
+### [Flask QuickRevision](https://github.com/abhimanyus1997/cryptoTracker/blob/e25dec5d3b5598c0a7e5736eaf41d07f28d335d8/flask/flask_tutor.ipynb)
