@@ -11,6 +11,10 @@ Assignments for iNeuron FSDS- Nov 2021
 1. [Assignment 6](Python%20Basics/Assignment%206%20-%20Python%20Basics.ipynb)
 1. [Assignment 7](Python%20Basics/Assignment%207%20-%20Python%20Basics.ipynb)
 1. [Assignment 8](Python%20Basics/Assignment%208%20-%20Python%20Basics.ipynb)
+1. [Assignment 9](Python%20Basics/Assignment%209%20-%20Python%20Basics.ipynb)
+1. [Assignment 10](Python%20Basics/Assignment%2010%20-%20Python%20Basics.ipynb)
+1. [Assignment 11](Python%20Basics/Assignment%2011%20-%20Python%20Basics.ipynb)
+1. [Assignment 12](Python%20Basics/Assignment%2012%20-%20Python%20Basics.ipynb)
 
 ### Python Advance Assignment
 ### Python Programming Basic Assignment
